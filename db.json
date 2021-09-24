@@ -1,104 +1,130 @@
 {
-    "products": [
+    "products":
+    [
         {
             "id": 1,
-            "name": "Radiated tortoise",
-            "category": "Crimson"
+            "name": "Vaughn",
+            "category": "Fox, asian red"
         },
         {
             "id": 2,
-            "name": "Cockatoo, sulfur-crested",
-            "category": "Goldenrod"
+            "name": "Arly",
+            "category": "Possum, golden brush-tailed"
         },
         {
             "id": 3,
-            "name": "Leopard",
-            "category": "Red"
+            "name": "Cordie",
+            "category": "Kaffir cat"
         },
         {
             "id": 4,
-            "name": "Grenadier, common",
-            "category": "Goldenrod"
+            "name": "Gaspar",
+            "category": "Lion, african"
         },
         {
             "id": 5,
-            "name": "Sociable weaver",
-            "category": "Mauv"
+            "name": "Sheilah",
+            "category": "Masked booby"
         },
         {
             "id": 6,
-            "name": "Lemming, collared",
-            "category": "Goldenrod"
+            "name": "Willy",
+            "category": "Southern sea lion"
         },
         {
             "id": 7,
-            "name": "Four-horned antelope",
-            "category": "Indigo"
+            "name": "Paddie",
+            "category": "Lion, african"
         },
         {
             "id": 8,
-            "name": "Starfish, crown of thorns",
-            "category": "Orange"
+            "name": "Ruggiero",
+            "category": "Duiker, common"
         },
         {
             "id": 9,
-            "name": "Snake (unidentified)",
-            "category": "Yellow"
+            "name": "Mack",
+            "category": "Black-footed ferret"
         },
         {
             "id": 10,
-            "name": "Gray duiker",
-            "category": "Khaki"
+            "name": "Dix",
+            "category": "Ring-necked pheasant"
         },
         {
             "id": 11,
-            "name": "Possum, ring-tailed",
-            "category": "Orange"
+            "name": "Edithe",
+            "category": "Brown and yellow marshbird"
         },
         {
             "id": 12,
-            "name": "Indian giant squirrel",
-            "category": "Violet"
+            "name": "Clevie",
+            "category": "Legaan, Monitor (unidentified)"
         },
         {
             "id": 13,
-            "name": "Sloth, pale-throated three-toed",
-            "category": "Pink"
+            "name": "Hunter",
+            "category": "Eagle, bald"
         },
         {
             "id": 14,
-            "name": "Black curlew",
-            "category": "Green"
+            "name": "Lotti",
+            "category": "Common genet"
         },
         {
             "id": 15,
-            "name": "Beaver, american",
-            "category": "Pink"
+            "name": "Huberto",
+            "category": "Civet cat"
         },
         {
             "id": 16,
-            "name": "Springbok",
-            "category": "Yellow"
+            "name": "Jobie",
+            "category": "Spotted-tailed quoll"
         },
         {
             "id": 17,
-            "name": "Marshbird, brown and yellow",
-            "category": "Mauv"
+            "name": "Gale",
+            "category": "Stork, greater adjutant"
         },
         {
             "id": 18,
-            "name": "White-mantled colobus",
-            "category": "Red"
+            "name": "Hannis",
+            "category": "Tropical buckeye butterfly"
         },
         {
             "id": 19,
-            "name": "Mountain duck",
-            "category": "Crimson"
+            "name": "Curran",
+            "category": "Lily trotter"
         },
         {
             "id": 20,
-            "name": "Australian sea lion",
-            "category": "Indigo"
+            "name": "Mavis",
+            "category": "Bear, american black"
+        },
+        {
+            "id": 21,
+            "name": "Dal",
+            "category": "Cape Barren goose"
+        },
+        {
+            "id": 22,
+            "name": "Siffre",
+            "category": "Fisher"
+        },
+        {
+            "id": 23,
+            "name": "Huntley",
+            "category": "Blue duck"
+        },
+        {
+            "id": 24,
+            "name": "Sasha",
+            "category": "Seal, common"
+        },
+        {
+            "id": 25,
+            "name": "Nil",
+            "category": "Green vine snake"
         }
     ]
 }
