@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Radiated tortoise",
+            "category": "Crimson"
+        },
+        {
+            "id": 2,
+            "name": "Cockatoo, sulfur-crested",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 3,
+            "name": "Leopard",
+            "category": "Red"
+        },
+        {
+            "id": 4,
+            "name": "Grenadier, common",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 5,
+            "name": "Sociable weaver",
+            "category": "Mauv"
+        },
+        {
+            "id": 6,
+            "name": "Lemming, collared",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 7,
+            "name": "Four-horned antelope",
+            "category": "Indigo"
+        },
+        {
+            "id": 8,
+            "name": "Starfish, crown of thorns",
+            "category": "Orange"
+        },
+        {
+            "id": 9,
+            "name": "Snake (unidentified)",
+            "category": "Yellow"
+        },
+        {
+            "id": 10,
+            "name": "Gray duiker",
+            "category": "Khaki"
+        },
+        {
+            "id": 11,
+            "name": "Possum, ring-tailed",
+            "category": "Orange"
+        },
+        {
+            "id": 12,
+            "name": "Indian giant squirrel",
+            "category": "Violet"
+        },
+        {
+            "id": 13,
+            "name": "Sloth, pale-throated three-toed",
+            "category": "Pink"
+        },
+        {
+            "id": 14,
+            "name": "Black curlew",
+            "category": "Green"
+        },
+        {
+            "id": 15,
+            "name": "Beaver, american",
+            "category": "Pink"
+        },
+        {
+            "id": 16,
+            "name": "Springbok",
+            "category": "Yellow"
+        },
+        {
+            "id": 17,
+            "name": "Marshbird, brown and yellow",
+            "category": "Mauv"
+        },
+        {
+            "id": 18,
+            "name": "White-mantled colobus",
+            "category": "Red"
+        },
+        {
+            "id": 19,
+            "name": "Mountain duck",
+            "category": "Crimson"
+        },
+        {
+            "id": 20,
+            "name": "Australian sea lion",
+            "category": "Indigo"
+        }
+    ]
+}
