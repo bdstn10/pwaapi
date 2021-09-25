@@ -2,152 +2,152 @@
     "products": [
         {
             "id": 1,
-            "first_name": "Duff",
+            "name": "Duff",
             "category": "Aquamarine"
         },
         {
             "id": 2,
-            "first_name": "Deirdre",
+            "name": "Deirdre",
             "category": "Aquamarine"
         },
         {
             "id": 3,
-            "first_name": "Monica",
+            "name": "Monica",
             "category": "Mauv"
         },
         {
             "id": 4,
-            "first_name": "Martin",
+            "name": "Martin",
             "category": "Fuscia"
         },
         {
             "id": 5,
-            "first_name": "Jeanette",
+            "name": "Jeanette",
             "category": "Blue"
         },
         {
             "id": 6,
-            "first_name": "Darlene",
+            "name": "Darlene",
             "category": "Aquamarine"
         },
         {
             "id": 7,
-            "first_name": "Sandye",
+            "name": "Sandye",
             "category": "Khaki"
         },
         {
             "id": 8,
-            "first_name": "Hana",
+            "name": "Hana",
             "category": "Yellow"
         },
         {
             "id": 9,
-            "first_name": "Bronson",
+            "name": "Bronson",
             "category": "Maroon"
         },
         {
             "id": 10,
-            "first_name": "Joannes",
+            "name": "Joannes",
             "category": "Khaki"
         },
         {
             "id": 11,
-            "first_name": "Marietta",
+            "name": "Marietta",
             "category": "Red"
         },
         {
             "id": 12,
-            "first_name": "Phil",
+            "name": "Phil",
             "category": "Yellow"
         },
         {
             "id": 13,
-            "first_name": "Algernon",
+            "name": "Algernon",
             "category": "Turquoise"
         },
         {
             "id": 14,
-            "first_name": "Zach",
+            "name": "Zach",
             "category": "Blue"
         },
         {
             "id": 15,
-            "first_name": "Garrot",
+            "name": "Garrot",
             "category": "Aquamarine"
         },
         {
             "id": 16,
-            "first_name": "Joycelin",
+            "name": "Joycelin",
             "category": "Violet"
         },
         {
             "id": 17,
-            "first_name": "Doralyn",
+            "name": "Doralyn",
             "category": "Turquoise"
         },
         {
             "id": 18,
-            "first_name": "Kellen",
+            "name": "Kellen",
             "category": "Goldenrod"
         },
         {
             "id": 19,
-            "first_name": "Sargent",
+            "name": "Sargent",
             "category": "Green"
         },
         {
             "id": 20,
-            "first_name": "Jacinta",
+            "name": "Jacinta",
             "category": "Teal"
         },
         {
             "id": 21,
-            "first_name": "Patricio",
+            "name": "Patricio",
             "category": "Maroon"
         },
         {
             "id": 22,
-            "first_name": "Ravid",
+            "name": "Ravid",
             "category": "Crimson"
         },
         {
             "id": 23,
-            "first_name": "Sayers",
+            "name": "Sayers",
             "category": "Fuscia"
         },
         {
             "id": 24,
-            "first_name": "Berty",
+            "name": "Berty",
             "category": "Khaki"
         },
         {
             "id": 25,
-            "first_name": "Deidre",
+            "name": "Deidre",
             "category": "Turquoise"
         },
         {
             "id": 26,
-            "first_name": "Arabele",
+            "name": "Arabele",
             "category": "Crimson"
         },
         {
             "id": 27,
-            "first_name": "Ruthann",
+            "name": "Ruthann",
             "category": "Puce"
         },
         {
             "id": 28,
-            "first_name": "Elston",
+            "name": "Elston",
             "category": "Blue"
         },
         {
             "id": 29,
-            "first_name": "Alysia",
+            "name": "Alysia",
             "category": "Maroon"
         },
         {
             "id": 30,
-            "first_name": "Nadeen",
+            "name": "Nadeen",
             "category": "Fuscia"
         }
     ]
