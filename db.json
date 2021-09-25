@@ -149,56 +149,6 @@
             "id": 30,
             "first_name": "Nadeen",
             "category": "Fuscia"
-        },
-        {
-            "id": 31,
-            "first_name": "Thorstein",
-            "category": "Teal"
-        },
-        {
-            "id": 32,
-            "first_name": "Rheba",
-            "category": "Aquamarine"
-        },
-        {
-            "id": 33,
-            "first_name": "Winnah",
-            "category": "Goldenrod"
-        },
-        {
-            "id": 34,
-            "first_name": "Gerry",
-            "category": "Maroon"
-        },
-        {
-            "id": 35,
-            "first_name": "Correy",
-            "category": "Crimson"
-        },
-        {
-            "id": 36,
-            "first_name": "Ashien",
-            "category": "Maroon"
-        },
-        {
-            "id": 37,
-            "first_name": "Ansley",
-            "category": "Turquoise"
-        },
-        {
-            "id": 38,
-            "first_name": "Rafaelia",
-            "category": "Fuscia"
-        },
-        {
-            "id": 39,
-            "first_name": "Meredith",
-            "category": "Red"
-        },
-        {
-            "id": 40,
-            "first_name": "Felisha",
-            "category": "Violet"
         }
     ]
 }
