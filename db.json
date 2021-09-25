@@ -1,40 +1,204 @@
-[{"id":1,"first_name":"Duff","category":"Aquamarine"},
-{"id":2,"first_name":"Deirdre","category":"Aquamarine"},
-{"id":3,"first_name":"Monica","category":"Mauv"},
-{"id":4,"first_name":"Martin","category":"Fuscia"},
-{"id":5,"first_name":"Jeanette","category":"Blue"},
-{"id":6,"first_name":"Darlene","category":"Aquamarine"},
-{"id":7,"first_name":"Sandye","category":"Khaki"},
-{"id":8,"first_name":"Hana","category":"Yellow"},
-{"id":9,"first_name":"Bronson","category":"Maroon"},
-{"id":10,"first_name":"Joannes","category":"Khaki"},
-{"id":11,"first_name":"Marietta","category":"Red"},
-{"id":12,"first_name":"Phil","category":"Yellow"},
-{"id":13,"first_name":"Algernon","category":"Turquoise"},
-{"id":14,"first_name":"Zach","category":"Blue"},
-{"id":15,"first_name":"Garrot","category":"Aquamarine"},
-{"id":16,"first_name":"Joycelin","category":"Violet"},
-{"id":17,"first_name":"Doralyn","category":"Turquoise"},
-{"id":18,"first_name":"Kellen","category":"Goldenrod"},
-{"id":19,"first_name":"Sargent","category":"Green"},
-{"id":20,"first_name":"Jacinta","category":"Teal"},
-{"id":21,"first_name":"Patricio","category":"Maroon"},
-{"id":22,"first_name":"Ravid","category":"Crimson"},
-{"id":23,"first_name":"Sayers","category":"Fuscia"},
-{"id":24,"first_name":"Berty","category":"Khaki"},
-{"id":25,"first_name":"Deidre","category":"Turquoise"},
-{"id":26,"first_name":"Arabele","category":"Crimson"},
-{"id":27,"first_name":"Ruthann","category":"Puce"},
-{"id":28,"first_name":"Elston","category":"Blue"},
-{"id":29,"first_name":"Alysia","category":"Maroon"},
-{"id":30,"first_name":"Nadeen","category":"Fuscia"},
-{"id":31,"first_name":"Thorstein","category":"Teal"},
-{"id":32,"first_name":"Rheba","category":"Aquamarine"},
-{"id":33,"first_name":"Winnah","category":"Goldenrod"},
-{"id":34,"first_name":"Gerry","category":"Maroon"},
-{"id":35,"first_name":"Correy","category":"Crimson"},
-{"id":36,"first_name":"Ashien","category":"Maroon"},
-{"id":37,"first_name":"Ansley","category":"Turquoise"},
-{"id":38,"first_name":"Rafaelia","category":"Fuscia"},
-{"id":39,"first_name":"Meredith","category":"Red"},
-{"id":40,"first_name":"Felisha","category":"Violet"}]
+{
+    "products": [
+        {
+            "id": 1,
+            "first_name": "Duff",
+            "category": "Aquamarine"
+        },
+        {
+            "id": 2,
+            "first_name": "Deirdre",
+            "category": "Aquamarine"
+        },
+        {
+            "id": 3,
+            "first_name": "Monica",
+            "category": "Mauv"
+        },
+        {
+            "id": 4,
+            "first_name": "Martin",
+            "category": "Fuscia"
+        },
+        {
+            "id": 5,
+            "first_name": "Jeanette",
+            "category": "Blue"
+        },
+        {
+            "id": 6,
+            "first_name": "Darlene",
+            "category": "Aquamarine"
+        },
+        {
+            "id": 7,
+            "first_name": "Sandye",
+            "category": "Khaki"
+        },
+        {
+            "id": 8,
+            "first_name": "Hana",
+            "category": "Yellow"
+        },
+        {
+            "id": 9,
+            "first_name": "Bronson",
+            "category": "Maroon"
+        },
+        {
+            "id": 10,
+            "first_name": "Joannes",
+            "category": "Khaki"
+        },
+        {
+            "id": 11,
+            "first_name": "Marietta",
+            "category": "Red"
+        },
+        {
+            "id": 12,
+            "first_name": "Phil",
+            "category": "Yellow"
+        },
+        {
+            "id": 13,
+            "first_name": "Algernon",
+            "category": "Turquoise"
+        },
+        {
+            "id": 14,
+            "first_name": "Zach",
+            "category": "Blue"
+        },
+        {
+            "id": 15,
+            "first_name": "Garrot",
+            "category": "Aquamarine"
+        },
+        {
+            "id": 16,
+            "first_name": "Joycelin",
+            "category": "Violet"
+        },
+        {
+            "id": 17,
+            "first_name": "Doralyn",
+            "category": "Turquoise"
+        },
+        {
+            "id": 18,
+            "first_name": "Kellen",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 19,
+            "first_name": "Sargent",
+            "category": "Green"
+        },
+        {
+            "id": 20,
+            "first_name": "Jacinta",
+            "category": "Teal"
+        },
+        {
+            "id": 21,
+            "first_name": "Patricio",
+            "category": "Maroon"
+        },
+        {
+            "id": 22,
+            "first_name": "Ravid",
+            "category": "Crimson"
+        },
+        {
+            "id": 23,
+            "first_name": "Sayers",
+            "category": "Fuscia"
+        },
+        {
+            "id": 24,
+            "first_name": "Berty",
+            "category": "Khaki"
+        },
+        {
+            "id": 25,
+            "first_name": "Deidre",
+            "category": "Turquoise"
+        },
+        {
+            "id": 26,
+            "first_name": "Arabele",
+            "category": "Crimson"
+        },
+        {
+            "id": 27,
+            "first_name": "Ruthann",
+            "category": "Puce"
+        },
+        {
+            "id": 28,
+            "first_name": "Elston",
+            "category": "Blue"
+        },
+        {
+            "id": 29,
+            "first_name": "Alysia",
+            "category": "Maroon"
+        },
+        {
+            "id": 30,
+            "first_name": "Nadeen",
+            "category": "Fuscia"
+        },
+        {
+            "id": 31,
+            "first_name": "Thorstein",
+            "category": "Teal"
+        },
+        {
+            "id": 32,
+            "first_name": "Rheba",
+            "category": "Aquamarine"
+        },
+        {
+            "id": 33,
+            "first_name": "Winnah",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 34,
+            "first_name": "Gerry",
+            "category": "Maroon"
+        },
+        {
+            "id": 35,
+            "first_name": "Correy",
+            "category": "Crimson"
+        },
+        {
+            "id": 36,
+            "first_name": "Ashien",
+            "category": "Maroon"
+        },
+        {
+            "id": 37,
+            "first_name": "Ansley",
+            "category": "Turquoise"
+        },
+        {
+            "id": 38,
+            "first_name": "Rafaelia",
+            "category": "Fuscia"
+        },
+        {
+            "id": 39,
+            "first_name": "Meredith",
+            "category": "Red"
+        },
+        {
+            "id": 40,
+            "first_name": "Felisha",
+            "category": "Violet"
+        }
+    ]
+}
